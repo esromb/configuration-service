@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: config-service
+  cloud:
+    config:
+      server:
+        git:
+          uri: "https://bitbucket.org/kal9/config-repo.git"
+          timeout: 1000
+server:
+  port: 8888
