@@ -1,6 +1,6 @@
 # configuration-service
 
-This is spring cloud service that use git to serve configuration properties for the application. To run it use the below command:
+This is spring cloud service that use git to serve configuration properties for the application (containerized spring based cloud config.). To run it use the below command:
 
 
 
